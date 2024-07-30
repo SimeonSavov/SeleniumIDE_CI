@@ -24,7 +24,7 @@ public class TC01IfUserIsInvalidTryAgainTest
     }
 
     [TearDown]
-    protected void TearDown()
+    public void TearDown()
     {
         driver.Quit();
         driver.Dispose();
