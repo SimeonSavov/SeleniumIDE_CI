@@ -101,3 +101,4 @@ C:\SoftUni - Automation\12. Selenium-CI-1\2-SeleniumIDE\SeleniumIDE\obj\Debug\ne
 C:\SoftUni - Automation\12. Selenium-CI-1\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\SoftUni - Automation\12. Selenium-CI-1\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\SoftUni - Automation\12. Selenium-CI-1\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\SoftUni - Automation\12. Selenium-CI-1\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
